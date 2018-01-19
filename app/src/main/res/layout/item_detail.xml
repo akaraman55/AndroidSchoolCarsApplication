@@ -6,4 +6,5 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:textIsSelectable="true"
-    tools:context="ru.luxoft.dev018.androidschoolcarsapplication.ItemDetailFragment" />
+    tools:context="ru.luxoft.dev018.androidschoolcarsapplication.ItemDetailFragment"
+    />
